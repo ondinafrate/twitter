@@ -1,0 +1,14 @@
+
+#myCanvas{
+    margin-top: 30px;
+}
+#fixed-text{
+    position: fixed;
+    top: 5px;
+    left: 8px;
+    background-color: white;
+    width: 1280px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+}
